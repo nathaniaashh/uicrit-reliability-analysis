@@ -1,0 +1,21 @@
+1) design quality, fitur panjang saja macroF1=0.464
+2) null permutasi macroF1: mean=0.333 max=0.357 p95=0.349
+3a) arah selisih (di atas vs di bawah rekan, |selisih|>=0,5) n=2325 AUC=0.724
+3b) rata-rata layar di atas median: AUC=0.614
+3c) rating baris sendiri >=6: AUC=0.817
+rendah(<=5) : heading, elements, cluttered, icons, prominent, design, arbitrarily, implement, buttons, appeal, visual appeal, digits
+sedang(6) : text font, layout, users, ensure, small increase, easier read, texts, easier, complementary, highlighted, read text, make
+tinggi(>=7) : improve, need, clear easy, use consistent, darker color, consistent color, clear concise, consider using, readable easy, centered, concise, length
+[[566 166 144]
+ [283 922 196]
+ [103  62 445]]
+              precision    recall  f1-score   support
+
+      rendah      0.595     0.646     0.619       876
+      sedang      0.802     0.658     0.723      1401
+      tinggi      0.567     0.730     0.638       610
+
+    accuracy                          0.670      2887
+   macro avg      0.654     0.678     0.660      2887
+weighted avg      0.689     0.670     0.673      2887
+

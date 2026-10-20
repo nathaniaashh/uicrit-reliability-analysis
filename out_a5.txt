@@ -1,0 +1,85 @@
+komentar human dipakai: 8230 | layar: 1000 | baris penilai: 2887
+matriks: (8230, 1041)
+komentar per sumber setelah filter: {'human': 8230, 'both': 1854, 'llm': 1026}
+                  tingkat  komentar  baris  layar  layar_3_baris_lengkap
+                 1. human      8230   2807    966                    876
+            2. human+both     10084   2813    966                    882
+                 3. semua     11110   2814    966                    883
+4. human tanpa awalan LLM      6059   1909    966                      0
+
+Omnibus (p mentah) per tingkat:
+tingkat                                             1. human  2. human+both  3. semua  4. human tanpa awalan LLM
+rating         respons  spesifikasi                                                                             
+Aesthetics     bertanda efek tetap layar              0.0015         0.0211    0.0922                     0.0016
+                        utama                         0.0000         0.0000    0.0024                     0.0000
+                        utama + kontrol awalan LLM    0.0000         0.0000    0.0029                        NaN
+               mutlak   efek tetap layar              0.0056         0.0026    0.0004                     0.0061
+                        utama                         0.0000         0.0000    0.0000                     0.0000
+                        utama + kontrol awalan LLM    0.0000         0.0000    0.0000                        NaN
+Design quality bertanda efek tetap layar              0.0002         0.0039    0.0103                     0.0022
+                        utama                         0.0000         0.0000    0.0009                     0.0000
+                        utama + kontrol awalan LLM    0.0000         0.0000    0.0013                        NaN
+               mutlak   efek tetap layar              0.0015         0.0042    0.0004                     0.0071
+                        utama                         0.0000         0.0000    0.0000                     0.0000
+                        utama + kontrol awalan LLM    0.0000         0.0000    0.0000                        NaN
+Usability      bertanda efek tetap layar              0.0414         0.0966    0.0669                     0.0007
+                        utama                         0.0072         0.0807    0.1889                     0.0000
+                        utama + kontrol awalan LLM    0.0069         0.0743    0.1836                        NaN
+               mutlak   efek tetap layar              0.0364         0.0491    0.0801                     0.0378
+                        utama                         0.0073         0.0114    0.0243                     0.0000
+                        utama + kontrol awalan LLM    0.0219         0.0324    0.0562                        NaN
+
+Semua p_BH<0.05 per tingkat/spesifikasi:
+spesifikasi                efek tetap layar  utama  utama + kontrol awalan LLM
+tingkat                                                                       
+1. human                                6.0    6.0                         6.0
+2. human+both                           4.0    5.0                         5.0
+3. semua                                3.0    5.0                         4.0
+4. human tanpa awalan LLM               6.0    6.0                         NaN
+
+Korelasi koefisien (utama, 24 koef) tingkat 1 vs lain: {'2. human+both': np.float64(0.988), '3. semua': np.float64(0.979), '4. human tanpa awalan LLM': np.float64(0.924)}
+maks selisih mutlak koef: {'2. human+both': np.float64(0.193), '3. semua': np.float64(0.306), '4. human tanpa awalan LLM': np.float64(0.613)}
+Proporsi tanda koef sama dengan tingkat 1: {'2. human+both': np.float64(0.958), '3. semua': np.float64(0.875), '4. human tanpa awalan LLM': np.float64(0.917)}
+
+ sumber    n  kata_median  kata_mean  ttr_mean  ttr_median
+ human 8230         40.0     42.508     0.740       0.741
+  both 1854         40.0     42.579     0.652       0.673
+   llm 1026         43.0     46.901     0.637       0.651
+      banding           ukuran             p  rank_biserial          p_BH
+human vs both      jumlah kata  9.834985e-01      -0.000307  9.834985e-01
+human vs both type-token ratio 3.178876e-209       0.458162 1.271551e-208
+ human vs llm      jumlah kata  7.219022e-14      -0.143024  9.625363e-14
+ human vs llm type-token ratio 1.831674e-167       0.527240 3.663347e-167
+
+Sebaran topik dominan per sumber (%):
+dom       0     1     2     3     4
+src                                
+both   32.8  17.6  35.1   6.7   7.8
+human  15.8  18.5  34.6  11.4  19.6
+llm    19.4   9.4  46.3   9.9  15.0
+chi-square=465.8, df=8, p=1.51e-95, Cramer V=0.145
+human vs both chi2=383.1 p=1.26e-81 V=0.195
+human vs llm chi2=97.1 p=4.05e-20 V=0.102
+
+layar dgn tepat 1 baris berawalan LLM: 905 dari 966
+                             0          1               2
+rating              Aesthetics  Usability  Design quality
+n_layar                    905        905             905
+rata_awalan               6.01      5.919           6.015
+rata_lain                5.628      5.771           5.722
+selisih                  0.382      0.148           0.293
+d_z                      0.301      0.111            0.24
+p_t                        0.0      0.001             0.0
+ICC_mentah               0.024      0.034            0.02
+ICC_mentah_lo           -0.015     -0.005          -0.018
+ICC_mentah_hi            0.063      0.073           0.058
+ICC_setelah_offset       0.039      0.037            0.03
+ICC_off_lo              -0.001     -0.004          -0.008
+ICC_off_hi               0.078      0.076           0.068
+
+Sebaran topik dominan human (%): berawalan vs tidak
+dom            0     1     2     3     4
+llm_prefix                              
+False       14.7  18.1  33.7  12.6  20.9
+True        19.0  19.4  37.3   8.3  15.9
+chi2 71.6 p 1.0469117437591675e-14

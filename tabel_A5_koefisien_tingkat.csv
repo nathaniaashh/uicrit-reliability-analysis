@@ -1,0 +1,265 @@
+tingkat,rating,respons,spesifikasi,topik,beta,p
+1. human,Aesthetics,mutlak,utama,Keterbacaan teks,-0.36075840543929494,0.001623770882521306
+1. human,Aesthetics,mutlak,utama,Kontras warna,-0.16990881204230032,0.07750992762278247
+1. human,Aesthetics,mutlak,utama,Hierarki visual,-0.568767152110557,1.3320435968254252e-06
+1. human,Aesthetics,mutlak,utama,Navigasi/tombol,-0.3344709441686547,0.001280545404754332
+1. human,Aesthetics,mutlak,efek tetap layar,Keterbacaan teks,-0.17606298408914406,0.11888319887146073
+1. human,Aesthetics,mutlak,efek tetap layar,Kontras warna,-0.12119543512763781,0.24585961103318266
+1. human,Aesthetics,mutlak,efek tetap layar,Hierarki visual,-0.4457057281999754,0.0006356045669134977
+1. human,Aesthetics,mutlak,efek tetap layar,Navigasi/tombol,-0.2867098872066,0.010718043326189626
+1. human,Aesthetics,mutlak,utama + kontrol awalan LLM,Keterbacaan teks,-0.3697505697154748,0.0013189250743097904
+1. human,Aesthetics,mutlak,utama + kontrol awalan LLM,Kontras warna,-0.16743470765517607,0.08288877584032792
+1. human,Aesthetics,mutlak,utama + kontrol awalan LLM,Hierarki visual,-0.564149687964803,1.8282360510438737e-06
+1. human,Aesthetics,mutlak,utama + kontrol awalan LLM,Navigasi/tombol,-0.327685621967317,0.001771005063300909
+1. human,Aesthetics,bertanda,utama,Keterbacaan teks,0.48543994388070816,0.0007947000635557313
+1. human,Aesthetics,bertanda,utama,Kontras warna,0.407044585426313,0.001146667534517881
+1. human,Aesthetics,bertanda,utama,Hierarki visual,0.8862375738438109,1.4067695748783122e-09
+1. human,Aesthetics,bertanda,utama,Navigasi/tombol,0.3526438419426297,0.007507921534769592
+1. human,Aesthetics,bertanda,efek tetap layar,Keterbacaan teks,0.5771847214463053,0.03291978920650225
+1. human,Aesthetics,bertanda,efek tetap layar,Kontras warna,0.2475109839727168,0.3089158736769849
+1. human,Aesthetics,bertanda,efek tetap layar,Hierarki visual,1.0665092984350875,0.00011413729734814682
+1. human,Aesthetics,bertanda,efek tetap layar,Navigasi/tombol,0.5541063085662958,0.029599511060514793
+1. human,Aesthetics,bertanda,utama + kontrol awalan LLM,Keterbacaan teks,0.3845079415309534,0.006020910732607154
+1. human,Aesthetics,bertanda,utama + kontrol awalan LLM,Kontras warna,0.43481502001193023,0.0004384931980489519
+1. human,Aesthetics,bertanda,utama + kontrol awalan LLM,Hierarki visual,0.938066019999286,1.1151756532658482e-10
+1. human,Aesthetics,bertanda,utama + kontrol awalan LLM,Navigasi/tombol,0.42880527931576884,0.0012680306517809333
+1. human,Usability,mutlak,utama,Keterbacaan teks,-0.05442015780232832,0.6297720678943163
+1. human,Usability,mutlak,utama,Kontras warna,-0.23625303335622064,0.00873761717346881
+1. human,Usability,mutlak,utama,Hierarki visual,-0.21580408970868828,0.04993776198471014
+1. human,Usability,mutlak,utama,Navigasi/tombol,-0.3172138739626195,0.0012886845266208038
+1. human,Usability,mutlak,efek tetap layar,Keterbacaan teks,0.05056017496769786,0.6402982614147782
+1. human,Usability,mutlak,efek tetap layar,Kontras warna,-0.2005662296299794,0.05469616430817423
+1. human,Usability,mutlak,efek tetap layar,Hierarki visual,-0.14758960080946978,0.2314820438546702
+1. human,Usability,mutlak,efek tetap layar,Navigasi/tombol,-0.26313671703838176,0.011053902961561324
+1. human,Usability,mutlak,utama + kontrol awalan LLM,Keterbacaan teks,-0.08353597947379227,0.464104524698692
+1. human,Usability,mutlak,utama + kontrol awalan LLM,Kontras warna,-0.22712589498946242,0.011768798269642368
+1. human,Usability,mutlak,utama + kontrol awalan LLM,Hierarki visual,-0.19981216162707094,0.06957099414638723
+1. human,Usability,mutlak,utama + kontrol awalan LLM,Navigasi/tombol,-0.2945323880902303,0.002879567526954094
+1. human,Usability,bertanda,utama,Keterbacaan teks,-0.06608837004380343,0.6514177509668211
+1. human,Usability,bertanda,utama,Kontras warna,0.37509391398536956,0.0013139640063171672
+1. human,Usability,bertanda,utama,Hierarki visual,0.07782507327249773,0.5867580641751537
+1. human,Usability,bertanda,utama,Navigasi/tombol,0.23476343591669868,0.05594847928859215
+1. human,Usability,bertanda,efek tetap layar,Keterbacaan teks,-0.35563115492253644,0.18073932003582627
+1. human,Usability,bertanda,efek tetap layar,Kontras warna,0.20792805463423433,0.353978510626869
+1. human,Usability,bertanda,efek tetap layar,Hierarki visual,-0.12658505417095547,0.6138836087726506
+1. human,Usability,bertanda,efek tetap layar,Navigasi/tombol,0.40946180387055187,0.08952781959333175
+1. human,Usability,bertanda,utama + kontrol awalan LLM,Keterbacaan teks,-0.07052364418017644,0.626377611446282
+1. human,Usability,bertanda,utama + kontrol awalan LLM,Kontras warna,0.3764842701015037,0.001293475411397934
+1. human,Usability,bertanda,utama + kontrol awalan LLM,Hierarki visual,0.0802611571931725,0.5765183026388295
+1. human,Usability,bertanda,utama + kontrol awalan LLM,Navigasi/tombol,0.23821855419566815,0.05624928427766655
+1. human,Design quality,mutlak,utama,Keterbacaan teks,-0.1926695133859884,0.064127811072461
+1. human,Design quality,mutlak,utama,Kontras warna,-0.16736368235240293,0.07179568044170376
+1. human,Design quality,mutlak,utama,Hierarki visual,-0.5531661037962232,1.0353039981536714e-07
+1. human,Design quality,mutlak,utama,Navigasi/tombol,-0.3346282080347873,0.0005490861192799553
+1. human,Design quality,mutlak,efek tetap layar,Keterbacaan teks,-0.06786314925715468,0.5194389807940735
+1. human,Design quality,mutlak,efek tetap layar,Kontras warna,-0.18786682748083794,0.06474208606783512
+1. human,Design quality,mutlak,efek tetap layar,Hierarki visual,-0.4371879501153892,0.0002442644599262239
+1. human,Design quality,mutlak,efek tetap layar,Navigasi/tombol,-0.31106774142374727,0.0024870854635451315
+1. human,Design quality,mutlak,utama + kontrol awalan LLM,Keterbacaan teks,-0.21219503264989714,0.0428124740715511
+1. human,Design quality,mutlak,utama + kontrol awalan LLM,Kontras warna,-0.16186231580474802,0.08204418882743042
+1. human,Design quality,mutlak,utama + kontrol awalan LLM,Hierarki visual,-0.5428450876105487,2.0288475196813794e-07
+1. human,Design quality,mutlak,utama + kontrol awalan LLM,Navigasi/tombol,-0.31988190165315383,0.0010496422670337512
+1. human,Design quality,bertanda,utama,Keterbacaan teks,0.3233305295570149,0.016012019045728864
+1. human,Design quality,bertanda,utama,Kontras warna,0.2614752787463771,0.023287709661840607
+1. human,Design quality,bertanda,utama,Hierarki visual,0.8122544414770777,1.9318402812166048e-10
+1. human,Design quality,bertanda,utama,Navigasi/tombol,0.23915383124065975,0.04960304976232357
+1. human,Design quality,bertanda,efek tetap layar,Keterbacaan teks,0.3107316838163327,0.22100984889198105
+1. human,Design quality,bertanda,efek tetap layar,Kontras warna,0.028334998306845573,0.8983256530633963
+1. human,Design quality,bertanda,efek tetap layar,Hierarki visual,1.031224197709954,2.6132832835097066e-05
+1. human,Design quality,bertanda,efek tetap layar,Navigasi/tombol,0.410511730618387,0.08389522271077177
+1. human,Design quality,bertanda,utama + kontrol awalan LLM,Keterbacaan teks,0.2633854612599535,0.04501480406064747
+1. human,Design quality,bertanda,utama + kontrol awalan LLM,Kontras warna,0.27836495983341647,0.015488090020233878
+1. human,Design quality,bertanda,utama + kontrol awalan LLM,Hierarki visual,0.8439408725411155,3.5239297775049145e-11
+1. human,Design quality,bertanda,utama + kontrol awalan LLM,Navigasi/tombol,0.28442629397153707,0.02169317966013846
+2. human+both,Aesthetics,mutlak,utama,Keterbacaan teks,-0.42760059306423714,0.00013039513695876968
+2. human+both,Aesthetics,mutlak,utama,Kontras warna,-0.19320499282469147,0.049629186240059804
+2. human+both,Aesthetics,mutlak,utama,Hierarki visual,-0.5939203713928811,1.983791659892159e-06
+2. human+both,Aesthetics,mutlak,utama,Navigasi/tombol,-0.35174941897531303,0.0011343808089768744
+2. human+both,Aesthetics,mutlak,efek tetap layar,Keterbacaan teks,-0.2501526864238905,0.03188803155226936
+2. human+both,Aesthetics,mutlak,efek tetap layar,Kontras warna,-0.12890945544126403,0.2295177415926417
+2. human+both,Aesthetics,mutlak,efek tetap layar,Hierarki visual,-0.4983938546936586,0.0005171748383616901
+2. human+both,Aesthetics,mutlak,efek tetap layar,Navigasi/tombol,-0.3120763037321837,0.007358587557005239
+2. human+both,Aesthetics,mutlak,utama + kontrol awalan LLM,Keterbacaan teks,-0.43845677373137937,8.970178085385202e-05
+2. human+both,Aesthetics,mutlak,utama + kontrol awalan LLM,Kontras warna,-0.18862441852666054,0.05609621882410388
+2. human+both,Aesthetics,mutlak,utama + kontrol awalan LLM,Hierarki visual,-0.5878952533788738,2.844469097459628e-06
+2. human+both,Aesthetics,mutlak,utama + kontrol awalan LLM,Navigasi/tombol,-0.34081319079659456,0.001810934312920442
+2. human+both,Aesthetics,bertanda,utama,Keterbacaan teks,0.5145024353436352,0.00026689339520999996
+2. human+both,Aesthetics,bertanda,utama,Kontras warna,0.3118295604346396,0.016003867946817015
+2. human+both,Aesthetics,bertanda,utama,Hierarki visual,0.7106296492857271,8.515942768583232e-06
+2. human+both,Aesthetics,bertanda,utama,Navigasi/tombol,0.25671101007841324,0.06654667180001565
+2. human+both,Aesthetics,bertanda,efek tetap layar,Keterbacaan teks,0.5421612695478797,0.042527735378984174
+2. human+both,Aesthetics,bertanda,efek tetap layar,Kontras warna,0.026431685408660012,0.916094687650715
+2. human+both,Aesthetics,bertanda,efek tetap layar,Hierarki visual,0.8102956285272668,0.007599886369098375
+2. human+both,Aesthetics,bertanda,efek tetap layar,Navigasi/tombol,0.3249725534270849,0.2343317203109483
+2. human+both,Aesthetics,bertanda,utama + kontrol awalan LLM,Keterbacaan teks,0.4213255147566091,0.00200191974453494
+2. human+both,Aesthetics,bertanda,utama + kontrol awalan LLM,Kontras warna,0.35114392159872077,0.006152346184262357
+2. human+both,Aesthetics,bertanda,utama + kontrol awalan LLM,Hierarki visual,0.7623423058756924,1.4973120859677537e-06
+2. human+both,Aesthetics,bertanda,utama + kontrol awalan LLM,Navigasi/tombol,0.3505749660840479,0.01291888639681663
+2. human+both,Usability,mutlak,utama,Keterbacaan teks,-0.11279251727155178,0.31447221675133563
+2. human+both,Usability,mutlak,utama,Kontras warna,-0.25206345195753044,0.006561660475691036
+2. human+both,Usability,mutlak,utama,Hierarki visual,-0.21553606533701522,0.06771938880295304
+2. human+both,Usability,mutlak,utama,Navigasi/tombol,-0.3319650847277002,0.0014111807378109093
+2. human+both,Usability,mutlak,efek tetap layar,Keterbacaan teks,-0.001631587630005826,0.9887005069239316
+2. human+both,Usability,mutlak,efek tetap layar,Kontras warna,-0.20401601097390196,0.05544050990970231
+2. human+both,Usability,mutlak,efek tetap layar,Hierarki visual,-0.17161907071394145,0.19810099888488886
+2. human+both,Usability,mutlak,efek tetap layar,Navigasi/tombol,-0.29177245106313643,0.008050303228755279
+2. human+both,Usability,mutlak,utama + kontrol awalan LLM,Keterbacaan teks,-0.14218912114485946,0.2072594509196849
+2. human+both,Usability,mutlak,utama + kontrol awalan LLM,Kontras warna,-0.23819506988934475,0.010316311661288012
+2. human+both,Usability,mutlak,utama + kontrol awalan LLM,Hierarki visual,-0.1980825126376039,0.09279931000274255
+2. human+both,Usability,mutlak,utama + kontrol awalan LLM,Navigasi/tombol,-0.30119390457554623,0.003951764603021
+2. human+both,Usability,bertanda,utama,Keterbacaan teks,-0.034477158999544746,0.8091882421827835
+2. human+both,Usability,bertanda,utama,Kontras warna,0.25905089513586677,0.028803000424653915
+2. human+both,Usability,bertanda,utama,Hierarki visual,-0.11535346934528934,0.45586287242478407
+2. human+both,Usability,bertanda,utama,Navigasi/tombol,0.10776820287191657,0.4017806131290892
+2. human+both,Usability,bertanda,efek tetap layar,Keterbacaan teks,-0.4491379207151939,0.08768696356261996
+2. human+both,Usability,bertanda,efek tetap layar,Kontras warna,-0.05045508274202354,0.8232621671777492
+2. human+both,Usability,bertanda,efek tetap layar,Hierarki visual,-0.4319158708133284,0.10215698468249289
+2. human+both,Usability,bertanda,efek tetap layar,Navigasi/tombol,0.11880133598945013,0.6356746444672048
+2. human+both,Usability,bertanda,utama + kontrol awalan LLM,Keterbacaan teks,-0.04265150985161425,0.7623695994578514
+2. human+both,Usability,bertanda,utama + kontrol awalan LLM,Kontras warna,0.2629072936934855,0.02699966701151876
+2. human+both,Usability,bertanda,utama + kontrol awalan LLM,Hierarki visual,-0.11050013785179559,0.47673778690853197
+2. human+both,Usability,bertanda,utama + kontrol awalan LLM,Navigasi/tombol,0.11632478388991577,0.374728816374295
+2. human+both,Design quality,mutlak,utama,Keterbacaan teks,-0.2674907091273778,0.009173795809907603
+2. human+both,Design quality,mutlak,utama,Kontras warna,-0.1848595770373969,0.053798787761179155
+2. human+both,Design quality,mutlak,utama,Hierarki visual,-0.5590108078588296,4.259062092251549e-07
+2. human+both,Design quality,mutlak,utama,Navigasi/tombol,-0.3553705512445589,0.00045120218491185866
+2. human+both,Design quality,mutlak,efek tetap layar,Keterbacaan teks,-0.13180530737584778,0.22860731036794268
+2. human+both,Design quality,mutlak,efek tetap layar,Kontras warna,-0.18676646720099052,0.07586316452176227
+2. human+both,Design quality,mutlak,efek tetap layar,Hierarki visual,-0.45268548209578624,0.0005224693611084033
+2. human+both,Design quality,mutlak,efek tetap layar,Navigasi/tombol,-0.31155626033339745,0.00410030704661589
+2. human+both,Design quality,mutlak,utama + kontrol awalan LLM,Keterbacaan teks,-0.28764788134370095,0.005183046662015498
+2. human+both,Design quality,mutlak,utama + kontrol awalan LLM,Kontras warna,-0.1761568581928219,0.0665460651594463
+2. human+both,Design quality,mutlak,utama + kontrol awalan LLM,Hierarki visual,-0.5474949888640684,8.092677148519435e-07
+2. human+both,Design quality,mutlak,utama + kontrol awalan LLM,Navigasi/tombol,-0.3349260301760012,0.001060026561378174
+2. human+both,Design quality,bertanda,utama,Keterbacaan teks,0.36747116155725373,0.005375444664115152
+2. human+both,Design quality,bertanda,utama,Kontras warna,0.15488408013903024,0.18893258000099533
+2. human+both,Design quality,bertanda,utama,Hierarki visual,0.6438003578810954,2.9707462499766334e-06
+2. human+both,Design quality,bertanda,utama,Navigasi/tombol,0.12715501719310665,0.3225597896399639
+2. human+both,Design quality,bertanda,efek tetap layar,Keterbacaan teks,0.3080821916134579,0.22083912538287542
+2. human+both,Design quality,bertanda,efek tetap layar,Kontras warna,-0.20333447399909124,0.36722993959898476
+2. human+both,Design quality,bertanda,efek tetap layar,Hierarki visual,0.7755227434687745,0.0033642847814616193
+2. human+both,Design quality,bertanda,efek tetap layar,Navigasi/tombol,0.16633619034182281,0.5084035251319626
+2. human+both,Design quality,bertanda,utama + kontrol awalan LLM,Keterbacaan teks,0.3105387294425199,0.016062767581927845
+2. human+both,Design quality,bertanda,utama + kontrol awalan LLM,Kontras warna,0.1794642615511406,0.12760456056996103
+2. human+both,Design quality,bertanda,utama + kontrol awalan LLM,Hierarki visual,0.6763259312169136,9.167986397197776e-07
+2. human+both,Design quality,bertanda,utama + kontrol awalan LLM,Navigasi/tombol,0.18489904474630345,0.15775077989867947
+3. semua,Aesthetics,mutlak,utama,Keterbacaan teks,-0.45065125050183097,0.00012072722444275694
+3. semua,Aesthetics,mutlak,utama,Kontras warna,-0.2338104234410842,0.03160727819674559
+3. semua,Aesthetics,mutlak,utama,Hierarki visual,-0.7086620279371313,2.2579446405669788e-07
+3. semua,Aesthetics,mutlak,utama,Navigasi/tombol,-0.37431360891875454,0.0008705215670406962
+3. semua,Aesthetics,mutlak,efek tetap layar,Keterbacaan teks,-0.28321579072603004,0.01939511141841883
+3. semua,Aesthetics,mutlak,efek tetap layar,Kontras warna,-0.1835017571725292,0.11782107693185505
+3. semua,Aesthetics,mutlak,efek tetap layar,Hierarki visual,-0.6367533227068839,5.614127092534608e-05
+3. semua,Aesthetics,mutlak,efek tetap layar,Navigasi/tombol,-0.3583501974197451,0.003818816647688906
+3. semua,Aesthetics,mutlak,utama + kontrol awalan LLM,Keterbacaan teks,-0.4591803302505921,8.996782233710016e-05
+3. semua,Aesthetics,mutlak,utama + kontrol awalan LLM,Kontras warna,-0.22840069599166943,0.036327461291479436
+3. semua,Aesthetics,mutlak,utama + kontrol awalan LLM,Hierarki visual,-0.7037134456653794,2.9960346527156494e-07
+3. semua,Aesthetics,mutlak,utama + kontrol awalan LLM,Navigasi/tombol,-0.3622440728347164,0.0014241661392614105
+3. semua,Aesthetics,bertanda,utama,Keterbacaan teks,0.33906005554956226,0.020145220409249653
+3. semua,Aesthetics,bertanda,utama,Kontras warna,0.18433555391797443,0.18212012350926698
+3. semua,Aesthetics,bertanda,utama,Hierarki visual,0.6092345581866323,0.0002499955655971626
+3. semua,Aesthetics,bertanda,utama,Navigasi/tombol,0.1407460324252928,0.3369873208474896
+3. semua,Aesthetics,bertanda,efek tetap layar,Keterbacaan teks,0.1997115758674712,0.48131791397841883
+3. semua,Aesthetics,bertanda,efek tetap layar,Kontras warna,-0.19724521732644715,0.4774920047181115
+3. semua,Aesthetics,bertanda,efek tetap layar,Hierarki visual,0.7301670902263727,0.031218277266999633
+3. semua,Aesthetics,bertanda,efek tetap layar,Navigasi/tombol,0.14739136174875625,0.6179426173308864
+3. semua,Aesthetics,bertanda,utama + kontrol awalan LLM,Keterbacaan teks,0.2664849891581653,0.06041212947141465
+3. semua,Aesthetics,bertanda,utama + kontrol awalan LLM,Kontras warna,0.23036763948471647,0.09275473892322583
+3. semua,Aesthetics,bertanda,utama + kontrol awalan LLM,Hierarki visual,0.6513426985130127,8.705521691266758e-05
+3. semua,Aesthetics,bertanda,utama + kontrol awalan LLM,Navigasi/tombol,0.243447309516717,0.10240501004295582
+3. semua,Usability,mutlak,utama,Keterbacaan teks,-0.13137092287577254,0.24450084764201896
+3. semua,Usability,mutlak,utama,Kontras warna,-0.26940163710164955,0.008972002199702957
+3. semua,Usability,mutlak,utama,Hierarki visual,-0.23494163065175844,0.0705507123134358
+3. semua,Usability,mutlak,utama,Navigasi/tombol,-0.32447016144740454,0.0029907861169582986
+3. semua,Usability,mutlak,efek tetap layar,Keterbacaan teks,-0.03390439749348551,0.781730790487459
+3. semua,Usability,mutlak,efek tetap layar,Kontras warna,-0.23876677591459405,0.04342544036979694
+3. semua,Usability,mutlak,efek tetap layar,Hierarki visual,-0.23889013736813972,0.10572074665533741
+3. semua,Usability,mutlak,efek tetap layar,Navigasi/tombol,-0.28585339743975774,0.014515693071967378
+3. semua,Usability,mutlak,utama + kontrol awalan LLM,Keterbacaan teks,-0.15506085891407406,0.17075011211121116
+3. semua,Usability,mutlak,utama + kontrol awalan LLM,Kontras warna,-0.25270552858710926,0.0142403302259265
+3. semua,Usability,mutlak,utama + kontrol awalan LLM,Hierarki visual,-0.22009572738563402,0.09010801836990653
+3. semua,Usability,mutlak,utama + kontrol awalan LLM,Navigasi/tombol,-0.289365771286995,0.008262875523512922
+3. semua,Usability,bertanda,utama,Keterbacaan teks,-0.12482091830905119,0.3859628350886005
+3. semua,Usability,bertanda,utama,Kontras warna,0.15361441794182834,0.23416527975653467
+3. semua,Usability,bertanda,utama,Hierarki visual,-0.2280898140502239,0.17010065297049126
+3. semua,Usability,bertanda,utama,Navigasi/tombol,-0.014740985717886295,0.9142176692396643
+3. semua,Usability,bertanda,efek tetap layar,Keterbacaan teks,-0.6381192464500596,0.025070721829681526
+3. semua,Usability,bertanda,efek tetap layar,Kontras warna,-0.22835915025533451,0.3683696047571069
+3. semua,Usability,bertanda,efek tetap layar,Hierarki visual,-0.5552645954520674,0.06882125803511706
+3. semua,Usability,bertanda,efek tetap layar,Navigasi/tombol,-0.0642314473038793,0.8155155338392058
+3. semua,Usability,bertanda,utama + kontrol awalan LLM,Keterbacaan teks,-0.1269210520656757,0.3725729441583331
+3. semua,Usability,bertanda,utama + kontrol awalan LLM,Kontras warna,0.1550945427103788,0.23174866758909163
+3. semua,Usability,bertanda,utama + kontrol awalan LLM,Hierarki visual,-0.22677371161134866,0.1741249949480349
+3. semua,Usability,bertanda,utama + kontrol awalan LLM,Navigasi/tombol,-0.011628950520220538,0.9339359357826676
+3. semua,Design quality,mutlak,utama,Keterbacaan teks,-0.28536983009182115,0.007450803421976287
+3. semua,Design quality,mutlak,utama,Kontras warna,-0.18389068971866498,0.07785273495386483
+3. semua,Design quality,mutlak,utama,Hierarki visual,-0.6931345216786392,7.635752870014046e-09
+3. semua,Design quality,mutlak,utama,Navigasi/tombol,-0.34380492174717475,0.0013135831519151084
+3. semua,Design quality,mutlak,efek tetap layar,Keterbacaan teks,-0.17290229979971078,0.12951686758833938
+3. semua,Design quality,mutlak,efek tetap layar,Kontras warna,-0.23268907620675844,0.040544273852956086
+3. semua,Design quality,mutlak,efek tetap layar,Hierarki visual,-0.6085022589791986,2.7912231940803694e-05
+3. semua,Design quality,mutlak,efek tetap layar,Navigasi/tombol,-0.34891426798590086,0.002423292809720598
+3. semua,Design quality,mutlak,utama + kontrol awalan LLM,Keterbacaan teks,-0.3029639346989503,0.004522493711630543
+3. semua,Design quality,mutlak,utama + kontrol awalan LLM,Kontras warna,-0.17237078509169937,0.09887672849351781
+3. semua,Design quality,mutlak,utama + kontrol awalan LLM,Hierarki visual,-0.6824600381939415,1.3641546398481263e-08
+3. semua,Design quality,mutlak,utama + kontrol awalan LLM,Navigasi/tombol,-0.31852818081124,0.003081529033835212
+3. semua,Design quality,bertanda,utama,Keterbacaan teks,0.21039384862244098,0.12076367290339023
+3. semua,Design quality,bertanda,utama,Kontras warna,0.04299536458179441,0.7346277994756119
+3. semua,Design quality,bertanda,utama,Hierarki visual,0.5535441534175325,0.00015584607226826753
+3. semua,Design quality,bertanda,utama,Navigasi/tombol,-0.004698349186712054,0.9724264270920079
+3. semua,Design quality,bertanda,efek tetap layar,Keterbacaan teks,0.04672778998528021,0.8617514981603945
+3. semua,Design quality,bertanda,efek tetap layar,Kontras warna,-0.36128829513091537,0.1545407586993699
+3. semua,Design quality,bertanda,efek tetap layar,Hierarki visual,0.7289647337641647,0.013929516356450273
+3. semua,Design quality,bertanda,efek tetap layar,Navigasi/tombol,0.004830187240412139,0.9860608445417962
+3. semua,Design quality,bertanda,utama + kontrol awalan LLM,Keterbacaan teks,0.16888034976582725,0.2042799567140552
+3. semua,Design quality,bertanda,utama + kontrol awalan LLM,Kontras warna,0.0701767164174552,0.5803420767822658
+3. semua,Design quality,bertanda,utama + kontrol awalan LLM,Hierarki visual,0.5787307240235396,8.023937148852737e-05
+3. semua,Design quality,bertanda,utama + kontrol awalan LLM,Navigasi/tombol,0.054942421365355966,0.6934881407576994
+4. human tanpa awalan LLM,Aesthetics,mutlak,utama,Keterbacaan teks,-0.6925288422331383,2.4606480017265612e-05
+4. human tanpa awalan LLM,Aesthetics,mutlak,utama,Kontras warna,-0.260699077033485,0.02323295988503966
+4. human tanpa awalan LLM,Aesthetics,mutlak,utama,Hierarki visual,-0.6950492695443644,1.2653930164735925e-06
+4. human tanpa awalan LLM,Aesthetics,mutlak,utama,Navigasi/tombol,-0.5942901557846404,7.587116247633383e-07
+4. human tanpa awalan LLM,Aesthetics,mutlak,efek tetap layar,Keterbacaan teks,-0.4163253397757075,0.03218043041938751
+4. human tanpa awalan LLM,Aesthetics,mutlak,efek tetap layar,Kontras warna,0.03188400951438595,0.8358685091904141
+4. human tanpa awalan LLM,Aesthetics,mutlak,efek tetap layar,Hierarki visual,-0.39138784582614966,0.033074700334511986
+4. human tanpa awalan LLM,Aesthetics,mutlak,efek tetap layar,Navigasi/tombol,-0.3738523668475554,0.026547983569129657
+4. human tanpa awalan LLM,Aesthetics,bertanda,utama,Keterbacaan teks,1.0134393665556831,4.330096162195906e-08
+4. human tanpa awalan LLM,Aesthetics,bertanda,utama,Kontras warna,0.6594002276653034,9.05804764238743e-06
+4. human tanpa awalan LLM,Aesthetics,bertanda,utama,Hierarki visual,1.0328921976425285,7.941594200940336e-10
+4. human tanpa awalan LLM,Aesthetics,bertanda,utama,Navigasi/tombol,0.7689129926860458,1.793573661001278e-07
+4. human tanpa awalan LLM,Aesthetics,bertanda,efek tetap layar,Keterbacaan teks,1.2935139843836039,0.0011649913614784875
+4. human tanpa awalan LLM,Aesthetics,bertanda,efek tetap layar,Kontras warna,0.38505754858097013,0.24967799444517147
+4. human tanpa awalan LLM,Aesthetics,bertanda,efek tetap layar,Hierarki visual,0.9911518525386173,0.010172142360492418
+4. human tanpa awalan LLM,Aesthetics,bertanda,efek tetap layar,Navigasi/tombol,0.9826530491762459,0.003734708783196284
+4. human tanpa awalan LLM,Usability,mutlak,utama,Keterbacaan teks,-0.44270922047378025,0.0023696771367599317
+4. human tanpa awalan LLM,Usability,mutlak,utama,Kontras warna,-0.2895911063903218,0.003882636755380177
+4. human tanpa awalan LLM,Usability,mutlak,utama,Hierarki visual,-0.31253997092253555,0.011186725256978126
+4. human tanpa awalan LLM,Usability,mutlak,utama,Navigasi/tombol,-0.5246951724191298,1.0878005428761332e-06
+4. human tanpa awalan LLM,Usability,mutlak,efek tetap layar,Keterbacaan teks,-0.3664232095118257,0.05403746220000767
+4. human tanpa awalan LLM,Usability,mutlak,efek tetap layar,Kontras warna,-0.17344576441747944,0.2631054726312134
+4. human tanpa awalan LLM,Usability,mutlak,efek tetap layar,Hierarki visual,-0.13072578400863746,0.42443451994507453
+4. human tanpa awalan LLM,Usability,mutlak,efek tetap layar,Navigasi/tombol,-0.45049021219313906,0.0022507573200360965
+4. human tanpa awalan LLM,Usability,bertanda,utama,Keterbacaan teks,0.5469219185372868,0.0011460358540006485
+4. human tanpa awalan LLM,Usability,bertanda,utama,Kontras warna,0.47923778770267994,0.000242938791105435
+4. human tanpa awalan LLM,Usability,bertanda,utama,Hierarki visual,-0.01017397320738955,0.947060781605174
+4. human tanpa awalan LLM,Usability,bertanda,utama,Navigasi/tombol,0.5168569028725194,5.431648003278192e-05
+4. human tanpa awalan LLM,Usability,bertanda,efek tetap layar,Keterbacaan teks,0.7569597515448598,0.0378961166154244
+4. human tanpa awalan LLM,Usability,bertanda,efek tetap layar,Kontras warna,0.13427249077609202,0.6598957263924597
+4. human tanpa awalan LLM,Usability,bertanda,efek tetap layar,Hierarki visual,-0.7910408936887254,0.008290213627357598
+4. human tanpa awalan LLM,Usability,bertanda,efek tetap layar,Navigasi/tombol,0.5367406604325309,0.07654678627716205
+4. human tanpa awalan LLM,Design quality,mutlak,utama,Keterbacaan teks,-0.5758130754625167,8.405451428069035e-05
+4. human tanpa awalan LLM,Design quality,mutlak,utama,Kontras warna,-0.2517997515293899,0.015682754547143716
+4. human tanpa awalan LLM,Design quality,mutlak,utama,Hierarki visual,-0.6460564254110256,1.8926535708251506e-07
+4. human tanpa awalan LLM,Design quality,mutlak,utama,Navigasi/tombol,-0.6283373349676904,1.2823440446814856e-08
+4. human tanpa awalan LLM,Design quality,mutlak,efek tetap layar,Keterbacaan teks,-0.3732426375363026,0.053096403321662856
+4. human tanpa awalan LLM,Design quality,mutlak,efek tetap layar,Kontras warna,-0.08488502927663112,0.567735413074619
+4. human tanpa awalan LLM,Design quality,mutlak,efek tetap layar,Hierarki visual,-0.3391753671227622,0.0393237891035341
+4. human tanpa awalan LLM,Design quality,mutlak,efek tetap layar,Navigasi/tombol,-0.48028492931353794,0.0012779567425008122
+4. human tanpa awalan LLM,Design quality,bertanda,utama,Keterbacaan teks,0.8699827339072299,8.68934135456658e-08
+4. human tanpa awalan LLM,Design quality,bertanda,utama,Kontras warna,0.5293942815755084,7.188214057971439e-05
+4. human tanpa awalan LLM,Design quality,bertanda,utama,Hierarki visual,0.8919280598963095,4.2832128795354424e-10
+4. human tanpa awalan LLM,Design quality,bertanda,utama,Navigasi/tombol,0.6344401602962912,1.530612828291133e-06
+4. human tanpa awalan LLM,Design quality,bertanda,efek tetap layar,Keterbacaan teks,1.1472249642176022,0.002072504676349546
+4. human tanpa awalan LLM,Design quality,bertanda,efek tetap layar,Kontras warna,0.2329807606662458,0.4471712025432615
+4. human tanpa awalan LLM,Design quality,bertanda,efek tetap layar,Hierarki visual,0.8350662583187519,0.013036720523256105
+4. human tanpa awalan LLM,Design quality,bertanda,efek tetap layar,Navigasi/tombol,0.8441730317956851,0.006786618972854978

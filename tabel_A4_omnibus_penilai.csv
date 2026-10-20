@@ -1,0 +1,19 @@
+spesifikasi,rating,respons,Wald_chi2_df4,p,n_baris,var_layar,p_BH
+OLS cluster-robust,Aesthetics,|selisih| (besar),30.619966170530468,3.659420685569159e-06,2807,,5.489131028353739e-06
+Efek tetap layar,Aesthetics,|selisih| (besar),14.595237494640948,0.005618726896591135,2807,,
+Model campuran (LRT),Aesthetics,|selisih| (besar),28.093766221936676,1.1938856280588205e-05,2807,0.18622100919839268,
+OLS cluster-robust,Aesthetics,selisih bertanda (arah),41.49997099729697,2.1176528648048675e-08,2807,,6.352958594414603e-08
+Efek tetap layar,Aesthetics,selisih bertanda (arah),17.59603731685053,0.0014798145976652128,2807,,
+Model campuran (LRT),Aesthetics,selisih bertanda (arah),-233.5200194103527,1.0,2807,0.8079139002199747,
+OLS cluster-robust,Usability,|selisih| (besar),13.991390371757007,0.007322584857061928,2807,,0.007322584857061928
+Efek tetap layar,Usability,|selisih| (besar),10.251299372112907,0.03640078771477043,2807,,
+Model campuran (LRT),Usability,|selisih| (besar),15.149813264160912,0.004400370542167084,2807,0.14790682417597792,
+OLS cluster-robust,Usability,selisih bertanda (arah),14.038244018263335,0.00717399161686553,2807,,0.007322584857061928
+Efek tetap layar,Usability,selisih bertanda (arah),9.943570514101761,0.04138903301275826,2807,,
+Model campuran (LRT),Usability,selisih bertanda (arah),-42.27294396192883,1.0,2807,0.8101448982009308,
+OLS cluster-robust,Design quality,|selisih| (besar),32.00785095139093,1.906042894578773e-06,2807,,3.812085789157546e-06
+Efek tetap layar,Design quality,|selisih| (besar),17.529201463952376,0.0015248838189105018,2807,,
+Model campuran (LRT),Design quality,|selisih| (besar),28.943932835150918,8.025098223008545e-06,2807,0.17068439585399822,
+OLS cluster-robust,Design quality,selisih bertanda (arah),42.321387453118284,1.4309051043182926e-08,2807,,6.352958594414603e-08
+Efek tetap layar,Design quality,selisih bertanda (arah),21.72579096883248,0.00022724541934867533,2807,,
+Model campuran (LRT),Design quality,selisih bertanda (arah),,,2807,,

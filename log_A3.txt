@@ -1,0 +1,26 @@
+komentar human dipakai: 8230 | layar: 1000 | baris penilai: 2887
+matriks: (8230, 1041)
+c_v NMF k=5: 0.792
+c_v KMeans k=5: 0.694 | ARI NMF-KMeans: 0.59 NMI: 0.661
+
+Topik 0 (n=1304, 15.8%): text, font, read, size, formatting, treatment, small, visual, increase, weight, difficult, understand
+   > the visual treatment and formatting should make it easy to understand. text is too small and difficult to read. increase the font size to make it easy to read.
+   > the text’s visual treatment and formatting should make it easy to understand. the text is too small and difficult to read. increase font size and weight to make it easier to read.
+
+Topik 1 (n=1520, 18.5%): background, contrast, color, text, colors, complementary, read, readability, good, change, white, difficult
+   > the text and background colors used in the design should be complementary and easy to read. text is in grey color on white background which is not making a good contrast. change colors to be more complementary to each other to mak
+   > to have high contrast between text and background for optimal readability. low contrast between gray text and background hinders readability. increase text color contrast or adjust the background color.
+
+Topik 2 (n=2849, 34.6%): elements, space, layout, blank, content, white, utilization, maximum, try, present, visual, adjust
+   > to have margins or padding around elements, ensuring they don't touch layout edges and content has breathing room. elements lack proper margins/padding, causing them to crowd the edges and potentially overflow. introduce margins o
+   > the design should address the design brief and should appropriately communicate the content to its intended audience. the choice of design elements is inappropriate for the overall message. try choosing more suitable visual featur
+
+Topik 3 (n=942, 11.4%): visually, dominant, important, information, prominent, button, enlarge, size, buttons, highlighted, increase, menu
+   > tomake the most important information visually dominant. the three dots are not visually prominent. we can enlarge them.
+   > to make the most important information visually dominant. the menu button is not visually prominent. we can enlarge it.
+
+Topik 4 (n=1615, 19.6%): page, button, navigation, previous, icon, navigating, mentioning, words, like, navigate, going, left
+   > the page should have a back button. there is no button on the page for going to the previous page. add a button for going back to the previous page.
+   > the page should have a back button. there is no button on the page for going to the previous page. add a button for going back to the previous page.
+
+rata2 bobot dominan: 0.723

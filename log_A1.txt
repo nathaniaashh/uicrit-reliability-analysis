@@ -1,0 +1,22 @@
+Baris=2981, layar unik=1000
+Missing: {"task": 2, "learnability": 1}
+Duplikat baris penuh=0
+aesthetics_rating: min=1 max=10 mean=5.747 sd=1.086
+usability_rating: min=1 max=10 mean=5.816 sd=1.064
+design_quality_rating: min=1 max=9 mean=5.816 sd=1.019
+learnability: min=1.0 max=5.0 mean=3.009 sd=0.611
+efficency: min=1 max=5 mean=3.019 sd=0.652
+Gagal parse source=0, comments=0
+Baris dengan len(source)!=len(comments): 83
+Total komentar (comments)=11430, total label source=11344
+Label sumber komentar: {'human': 8393, 'both': 1893, 'llm': 1058}
+  human: 8393 (73.99%)
+  both: 1893 (16.69%)
+  llm: 1058 (9.33%)
+Baris tanpa komentar=3
+Penilai per layar: {3: 966, 2: 25, 4: 8, 1: 1}
+Baris mengandung label di luar human/llm/both: 0 (0.00%)
+[human] layar 3-penilai dengan >=1 komentar: 966; dengan ketiga penilai punya komentar: 951; baris tersisa=2883
+[human+both] layar 3-penilai dengan >=1 komentar: 966; dengan ketiga penilai punya komentar: 957; baris tersisa=2889
+[semua] layar 3-penilai dengan >=1 komentar: 966; dengan ketiga penilai punya komentar: 961; baris tersisa=2893
+Penyaringan tingkat BARIS (semua human): 1010 baris, 76 layar lengkap
